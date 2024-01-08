@@ -24,7 +24,7 @@ module.exports = {
     REJECT_CALLS: convertToBool(process.env.REJECT_CALLS) || false,
     PMB: process.env.PMB || '_Personal messages not allowed, BLOCKED!_',
     READ_COMMAND: convertToBool(process.env.READ_COMMAND) || true,
-    SESSION: process.env.SESSION.trim() || '',
+    SESSION: process.env.SESSION.trim() || 'Raganork~d0ebbebb61f7dd0d010e9cbbb5674229:4a7437555a74742f7941633d',
     IMGBB_KEY: ["76a050f031972d9f27e329d767dd988f","deb80cd12ababea1c9b9a8ad6ce3fab2","78c84c62b32a88e86daf87dd509a657a"],
     RG: process.env.RG || '919074309534-1632403322@g.us',
     BOT_INFO: process.env.BOT_INFO || '🤍⃞➳𝐑օs𝐇ᴀ𝐍 ⍣͢￮𝐘ᴛ✮;➳⃞⍣͢ʀᴏsʜᴀɴ ʏᴛ⍣͢⭑⃞🇨🇩;919656968050;https://i.imgur.com/XDk97oy.jpeg;https://chat.whatsapp.com/Hukf6IqR91SJFigljMVmMK',
